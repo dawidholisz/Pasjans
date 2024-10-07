@@ -1,0 +1,19 @@
+﻿  ATH.cpp
+..\..\..\..\..\Desktop\Klondike-5\ATH.cpp(14): warning C4838: konwersja z „const int” do „SHORT” wymaga konwersji zawężającej
+..\..\..\..\..\Desktop\Klondike-5\ATH.cpp(78): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Karta.cpp
+  Main.cpp
+..\..\..\..\..\Desktop\Klondike-5\Main.cpp(5): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Plansza.cpp
+..\..\..\..\..\Desktop\Klondike-5\Plansza.cpp(364): warning C4129: " ": nierozpoznany znak sekwencji ucieczki
+..\..\..\..\..\Desktop\Klondike-5\Plansza.cpp(366): warning C4129: "_": nierozpoznany znak sekwencji ucieczki
+..\..\..\..\..\Desktop\Klondike-5\Plansza.cpp(368): warning C4129: " ": nierozpoznany znak sekwencji ucieczki
+..\..\..\..\..\Desktop\Klondike-5\Plansza.cpp(375): warning C4129: " ": nierozpoznany znak sekwencji ucieczki
+..\..\..\..\..\Desktop\Klondike-5\Plansza.cpp(377): warning C4129: "/": nierozpoznany znak sekwencji ucieczki
+..\..\..\..\..\Desktop\Klondike-5\Plansza.cpp(340): warning C4101: "run": lokalna zmienna, do której nie istnieje odwołanie
+  Talia.cpp
+  Trwa generowanie kodu
+  All 48 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Pasjans.vcxproj -> C:\Users\Dawid\Documents\Programy\C++\Pasjans\Release\Pasjans.exe
+  Pasjans.vcxproj -> C:\Users\Dawid\Documents\Programy\C++\Pasjans\Release\Pasjans.pdb (Full PDB)
